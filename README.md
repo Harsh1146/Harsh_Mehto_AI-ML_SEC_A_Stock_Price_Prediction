@@ -15,6 +15,14 @@ Short Project Description:
 
 Stock Price Prediction: A machine learning project to forecast stock prices using historical data. It includes data preprocessing, model training (e.g., LSTM, ARIMA), performance evaluation, and visualizations. Ideal for those exploring financial forecasting and time-series analysis.
 
+mini project presentation:
+
+[final ppt mini project.pptx](https://github.com/user-attachments/files/20001726/final.ppt.mini.project.pptx)
+
+certification:
+
+[certificate[1].docx](https://github.com/user-attachments/files/20001787/certificate.1.docx)
+
 project video link:
 
 https://github.com/user-attachments/assets/43f89842-b938-4895-995b-5675cc191688
